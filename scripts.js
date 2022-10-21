@@ -32,6 +32,15 @@
 //   console.log("false");
 // }
 
+// function sum(...numbers) {
+//   for (let item of numbers) {
+//     let highestNumber = Math.max(...numbers);
+//     console.log(highestNumber);
+//   }
+// }
+
+// sum(2, 4, 10, 12, 14, 19, 20);
+
 // let array = [1, 2, 4, 10, 34, 5, 7, 87];
 // for (items of array) {
 //   if (items > 0 && items < 10) {
@@ -63,3 +72,11 @@
 // array.forEach(function (item) {
 //   if (item.length > 4 && item.includes("av")) console.log(item);
 // });
+
+// let array = ["html", "css", "python", "javascript", "bootstrap"];
+// array.forEach((item)=>{
+//     if(item.length>4 && item.includes("av"))
+//     console.log(item);
+// })
+
+
