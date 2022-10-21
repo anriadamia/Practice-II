@@ -74,9 +74,6 @@
 // });
 
 // let array = ["html", "css", "python", "javascript", "bootstrap"];
-// array.forEach((item)=>{
-//     if(item.length>4 && item.includes("av"))
-//     console.log(item);
-// })
-
-
+// array.forEach((item) => {
+//   if (item.length > 4 && item.includes("av")) console.log(item);
+// });
